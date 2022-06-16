@@ -1,4 +1,3 @@
-# ex2
+# EXAMPLE 
 
-** no real code here 
-
+no real code here just for training 
