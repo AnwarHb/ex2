@@ -1,3 +1,4 @@
+date
 this is some txt file
 my file
 echo "hhh"
